@@ -6,3 +6,4 @@ The methods in these files are static and every method is as followed: called to
 What makes this method of Morse Code Unique is that it uses a tree like structure to construct the dots or dashes of the Morse output.
 There is also a Spaces method which can change the display to have spaces or not.
 The method returns a series of "." and "-" to represent the morse code.
+Eventually I Plan to add more To_Morse methods to allow for unsigned int, long, double, etc.
