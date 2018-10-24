@@ -2,7 +2,7 @@
 <html>
   <body>
     <h1>
-      Java, and C++ Morse Code</font>
+      C++, and Java Morse Code</font>
     </h1>
         <p>
         These are files one can add to transfer an int, string, or char into Morse Code.
