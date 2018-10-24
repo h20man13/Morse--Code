@@ -1,9 +1,8 @@
-# Morse--Code
 <!DOCTYPE html>
 <html>
   <body>
     <h1>
-      <font color = "red">Java, C++, and Python Morse Code</font>
+      Java, C++, and Python Morse Code</font>
     </h1>
         <p>
         These are files one can add to transfer an int, string, or char into Morse Code.
