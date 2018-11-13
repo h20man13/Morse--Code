@@ -1,12 +1,8 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    Morse Code Project
-  </head>
   <style>
     h1{
-    background: rgb(0, 250, 0);
-    color: rgb(250, 0, 250);
+    color: rgb(250, 0, 250)
     }
   </style>
   <body>
