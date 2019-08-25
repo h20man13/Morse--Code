@@ -18,8 +18,8 @@
       The output of the method will be as followed:<br>
       to_Morse('a') = "._"<br>
       to_Morse('1') = to_Morse(1) = ".----"<br>
-      to_Morse("Hi hi") and if setSpaces(true) Adds apace between each letter that is not a space = ".... .. .... .."<br>
-      to_Morse("Hi hi") and if setSpaces(false) only includes spaces allready in string = "...... ......"
+      to_Morse("Hi hi") and if setSpaces(true) Adds a space between each letter that is not a space = ".... .. .... .."<br>
+      to_Morse("Hi hi") and if setSpaces(false) only includes spaces already in string = "...... ......"
     </p2>
     <h3>
       Future Plans
