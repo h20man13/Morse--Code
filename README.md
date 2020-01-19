@@ -11,7 +11,7 @@
       How it works?
     </h2>
     <p2>
-      It used a heap like structure to constuct the morse code. First it searches the horizontal position of the letter that needs to be translated. Once it finds the letter it back tracks toward the top element. Each time it backtracks it adds a . or a dash to the current morse code.
+      It used a heap like structure to constuct the morse code. First it searches the horizontal position of the letter that needs to be translated. Once it finds the letter it back tracks toward the top element. Each time it backtracks it adds a dot or a dash to the current morse code.
     </p2>
     <h3>
       Methods
