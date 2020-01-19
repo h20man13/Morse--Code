@@ -7,6 +7,12 @@
     <p1>
       The morse class are classes with static methods that can be apllied in either <strong>Java</strong> or <strong>C++</strong>. These methods can convert a <strong>string</strong>, an <strong>integer</strong>, or a <strong>character</strong> into morse code.      
     </p1>
+    <h4>
+      How it works?
+    </h4>
+    <p4>
+      It used a heap like structure to constuct the morse code. First it searches the horizontal position of the letter that needs to be translated. Once it finds the letter it back tracks toward the top element. Each time it backtracks it adds a . or a dash to the current morse code.
+    </p4>
     <h2>
       Methods
     </h2>
